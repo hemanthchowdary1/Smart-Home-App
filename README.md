@@ -38,4 +38,4 @@ The interactive design can be viewed in Figma, where you can explore the user fl
 
 This app design focuses on user-friendly navigation, ensuring that anyone can control their smart home devices without unnecessary complexity. The combination of intuitive design, efficient functionality, and an appealing color scheme creates an optimal user experience.
 
-![Screenshot 2024-11-07 232834](https://github.com/user-attachments/assets/e9743dbc-a82d-456a-80a7-d606b2183095)
+![image](https://github.com/user-attachments/assets/cc37360e-72be-48bd-85f8-44efe02a2b21)
