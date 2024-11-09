@@ -1,7 +1,6 @@
 # Overview
 This project focuses on the creation of a modern smart home app aimed at enhancing user interaction with home automation systems. The design prioritizes simplicity, accessibility, and functionality, enabling users to easily control and monitor their smart devices.
 
-## Key Features & Screens
 # Color Palette:
 Soft Yellow (#FFD966): Used for highlighting buttons and key interactive elements to ensure visibility and appeal.
 Dark Blue (#2B2E4A): For text and headers, providing a professional and readable contrast.
@@ -30,10 +29,10 @@ Provides a quick and easy interface to adjust the home’s temperature, allowing
 The fan control screen provides an interface for users to adjust fan speed and oscillation settings. This allows for personalized airflow control, enhancing comfort in any room.
 
 # Structure
-/screens:
+screens:
 Contains visual representations of the key screens and features within the app, demonstrating the app's functionality.
 
-/flow_chart:
+flow chart:
 Includes a flowchart outlining the navigation structure, showing how users move between different screens and functions.
 
 # Exploring the Design
