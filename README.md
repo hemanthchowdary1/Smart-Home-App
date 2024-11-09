@@ -7,7 +7,7 @@ Dark Blue (#2B2E4A): For text and headers, providing a professional and readable
 White: Offers a clean background that improves readability and enhances visual clarity.
 
 # User Flow:
-The app is designed with a clear and simplified navigation flow, ensuring that users can easily transition from one function to another without confusion or clutter.
+The app is designed with a clear and simplified navigation flow, ensuring that users can easily transition from one function to another without confusion.
 
 # Main Screens
 # Device Dashboard:
@@ -16,8 +16,10 @@ The main screen displays an overview of all connected devices, giving users quic
 # Individual Device Controls:
 Users can access detailed settings for each device, such as adjusting lights, controlling temperature, or turning devices on/off.
 
-# Automation & Scheduling:
-Allows users to set up personalized automation routines for various devices (e.g., lighting schedules, thermostat adjustments) to automate home functions based on time or user preferences.
+# Lights Control
+On/Off Control: Quickly turn lights on or off in individual rooms or the entire home.
+Brightness Adjustment: Fine-tune brightness levels for each light to create the perfect ambiance.
+Color Changing: Select from a wide color palette to set the mood or match decor.
 
 # Sound Monitoring:
 Displays real-time noise levels, helping users monitor ambient sound in their home. This is especially useful for monitoring safety or ensuring the home environment is quiet.
@@ -40,5 +42,4 @@ The interactive design can be viewed in Figma, where you can explore the user fl
 
 This app design focuses on user-friendly navigation, ensuring that anyone can control their smart home devices without unnecessary complexity. The combination of intuitive design, efficient functionality, and an appealing color scheme creates an optimal user experience.
 
-![image](https://github.com/user-attachments/assets/1cf8463a-751e-43c9-8a7d-dab783e3cbce)
-
+![Screenshot 2024-11-09 232036](https://github.com/user-attachments/assets/c95dd316-1a2a-4274-9693-622319a6d5a2)
