@@ -10,7 +10,7 @@ White: Offers a clean background that improves readability and enhances visual c
 # User Flow:
 The app is designed with a clear and simplified navigation flow, ensuring that users can easily transition from one function to another without confusion or clutter.
 
-## Main Screens
+# Main Screens
 # Device Dashboard:
 The main screen displays an overview of all connected devices, giving users quick access to monitor and control their home automation system.
 
@@ -25,6 +25,9 @@ Displays real-time noise levels, helping users monitor ambient sound in their ho
 
 # Temperature Control:
 Provides a quick and easy interface to adjust the home’s temperature, allowing users to maintain a comfortable living environment.
+
+# Fan Control:
+The fan control screen provides an interface for users to adjust fan speed and oscillation settings. This allows for personalized airflow control, enhancing comfort in any room.
 
 # Structure
 /screens:
